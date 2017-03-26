@@ -4,17 +4,18 @@ Karaoke web app that combines audio from YouTube and displays lyrics to sing alo
 MLH for HackEmory V
 
 
-##INSPIRATION
+## INSPIRATION
 Wanted to make something socially fun for parties.
 
-##WHAT IT DOES
+## WHAT IT DOES
+Users can search for songs from YouTube, then our app rips the vocals and displays lyrics to the songs. Other functionalities are: collect songs in a queue, play songs, pause songs, remove songs from queue.
 
-##HOW I BUILT IT
+## HOW I BUILT IT
 
-##CHALLENGES I RAN INTO
+## CHALLENGES I RAN INTO
 
-##ACCOMPLISHMENTS THAT I'M PROUD OF
+## ACCOMPLISHMENTS THAT I'M PROUD OF
 
-##WHAT I LEARNED
+## WHAT I LEARNED
 
-##WHAT'S NEXT FOR KaraOde
+## WHAT'S NEXT FOR KaraOde
