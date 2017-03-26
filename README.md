@@ -1,5 +1,7 @@
 # karaode
 Karaoke web app that combines audio from YouTube and displays lyrics to sing along
+[![animated gif](photos/.gif)](https://invis.io/SGB0U0AD7
+ "Click to try out the KaraOde App")
 
 MLH for HackEmory V
 
